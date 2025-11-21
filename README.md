@@ -1,4 +1,4 @@
-**Designed an interactive dashboard for MSF as a group project for the LSE Data Analytics Career Accelerator**
+**Designed an interactive dashboard for MSF as a group project for the LSE Data Analytics Career Accelerator - data used is synthetic**
 
 <img width="862" height="489" alt="Survey response analysis" src="https://github.com/user-attachments/assets/a193750a-5d7f-48e3-a9f2-7a77f512e725" />
 
